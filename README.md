@@ -38,4 +38,8 @@ www.finsight.com
 
 ## Economics 
 
+### Economic Calendar
+[FRED](https://fred.stlouisfed.org/releases/calendar)
+* Links to economic releases and time-series
+
 PMI index, commodities, housing data, inflation, GDP, exports.
