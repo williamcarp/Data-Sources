@@ -1,6 +1,6 @@
 # Data Sources
 
-Repository to hold a record of useful data sources for market data.
+This is a repository to keep a comprehensive list of useful data sources for financial research and model-building.
 
 ## Interest Rates 
 
